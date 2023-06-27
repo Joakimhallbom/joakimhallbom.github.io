@@ -55,6 +55,7 @@ header {
   margin: 0 auto;
   padding: 40px;
   color: #fff;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3 {
@@ -122,3 +123,22 @@ nav ul li a {
   color: #fff;
   text-decoration: none;
 }
+
+/* Style the About section */
+#about {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+}
+
+#about h2 {
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+#about p {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+/* Add the Google Fonts stylesheet */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
