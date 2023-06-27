@@ -1,5 +1,5 @@
 /* Reset default browser styles */
-body, h1, h2, h3, p, ul, li, form, label, input, textarea {
+body, h1, h2, h3, p, ul, li, form, label, input, textarea, img {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -38,6 +38,31 @@ h1, h2, h3 {
 
 section {
   margin-bottom: 30px;
+}
+
+/* Style the project cards */
+.project {
+  background-color: #f1f1f1;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.project h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.project p {
+  margin-bottom: 20px;
+}
+
+.project-image {
+  text-align: center;
+}
+
+.project-image img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Style the contact form */
