@@ -101,3 +101,24 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+/* Style the navbar */
+nav {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
