@@ -125,8 +125,10 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fff;
+  color: #79b38e;
   text-decoration: none;
+  font-size: X-LARGE;
+  font-family: cursive;
 }
 
 /* Style the About section */
