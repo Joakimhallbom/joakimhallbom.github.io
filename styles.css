@@ -66,6 +66,7 @@ header {
 h1, h2, h3 {
   color: #fff;
   margin-bottom: 20px;
+  font-family: monospace;
 }
 
 section {
@@ -128,7 +129,7 @@ nav ul li a {
   color: #79b38e;
   text-decoration: none;
   font-size: X-LARGE;
-  font-family: cursive;
+  font-family: monospace;
 }
 
 /* Style the About section */
