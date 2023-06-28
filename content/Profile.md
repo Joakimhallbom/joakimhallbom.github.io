@@ -2,9 +2,10 @@
 - Joakim Hallbom Game Developer Portfolio
 
 ## Header
-- Hello! My name is Joakim. 
-- I'm a Indie Game Developer.
-- I love the development process of making games.
+- Joakim Hallbom 
+- Game Developer.
+
+
 
 ## About
 I love the development process of making games from idea to release.
