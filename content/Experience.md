@@ -6,9 +6,6 @@
   - Unreal Engine [green]
   - Blueprint Scripting [blue]
   - Blender [orange]
-  - Gimp [gray]
-  - Speedtree [purple]
-  - FL Studio [red]
   
 - List Items:
   - Point 1

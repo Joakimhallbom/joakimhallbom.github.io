@@ -1,22 +1,27 @@
-## Project 1
-Description
-- Tags: Category 1
+## 3D Art
+Works done in Blender
+- Tags: Art
 - Badges:
-  - Badge [blue]
+  - Blender [blue]
+  - Substance Painter [red]
+  - SpeedTree [green]
 - Buttons:
-  - Link [https://example.com]
+  - Artstation [https://www.artstation.com/joakim745]
 
-## Project 2
-Description
-- Tags: Category 2
+## Web Development
+Had a break from Game Development 2020 and did some web projects
+- Tags: WebDev
 - Badges:
-  - Badge [blue]
+  - html/css [red]
+  - Javascript [yellow]
+  - React JS [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Github [https://github.com/Joakimhallbom]
+ 
 
-## Project 3
-Description
-- Tags: Category 3
+## How it started
+Medium blog about my journey to become a game developer
+- Tags: Other
 - Badges:
   - Badge [blue]
 - Buttons:

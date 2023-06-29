@@ -3,7 +3,10 @@ First person horror game developed in Unreal Engine
 - ![DreamablesHeader](../assets/header.jpg)
 - Tags: Category 1
 - Badges:
-  - Badge [blue]
+  - Unreal Engine [green]
+  - Blueprint Scripting [blue]
+  - Blender [orange]
+  - Speedtree [yellow]
 - Buttons:
   - Steam Link [https://store.steampowered.com/app/2135930/Dreamables/]
 
