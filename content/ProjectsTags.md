@@ -1,3 +1,1 @@
-Art
 WebDev
-Other

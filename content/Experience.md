@@ -1,6 +1,6 @@
 ## Time Saving Games
 - *Solo Indie Developer* | Apr'20 - Current
-- ![logo512](../assets/logo512.png)
+- ![logo512]()
 - Tags: Game Development
 - Badges:
   - Unreal Engine [green]

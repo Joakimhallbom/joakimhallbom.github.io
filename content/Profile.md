@@ -3,7 +3,7 @@
 
 ## Header
 - Joakim Hallbom 
-- Game Developer.
+- Game Developer
 
 
 

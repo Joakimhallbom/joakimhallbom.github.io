@@ -8,6 +8,7 @@ Works done in Blender
 - Buttons:
   - Artstation [https://www.artstation.com/joakim745]
 
+
 ## Web Development
 Had a break from Game Development 2020 and did some web projects
 - Tags: WebDev
@@ -23,6 +24,6 @@ Had a break from Game Development 2020 and did some web projects
 Medium blog about my journey to become a game developer
 - Tags: Other
 - Badges:
-  - Badge [blue]
+  - DevJourney [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Medium Link [https://joakimdev.medium.com/]
