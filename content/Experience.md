@@ -6,10 +6,12 @@
   - Unreal Engine [green]
   - Blueprint Scripting [blue]
   - Blender [orange]
-  
 - List Items:
-  - Point 1
-  - Point 2
+  - 3D artist in Blender and Speedtree
+  - Animation and rigging in Blender and control rig in Unreal Engine 
+  - Blueprint scripting 
+  - Game Design
+  - Games Marketing
 
 ## Company 2
 - *Role* | Feb'23 - Mar'23
