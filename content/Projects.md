@@ -6,7 +6,6 @@ First person horror game developed in Unreal Engine
   - Unreal Engine BP [green]
   - Blender [orange]
   - Speedtree [yellow]
-  
 - Buttons:
   - Steam Link [https://store.steampowered.com/app/2135930/Dreamables/]
   
