@@ -7,7 +7,7 @@
   - Blueprint Scripting [blue]
   - Blender [orange]
 - List Items:
-  - 3D artist in Blender and Speedtree
+  - 3D artist in Blender
   - Animation and rigging in Blender and control rig in Unreal Engine 
   - Blueprint scripting 
   - Game Design

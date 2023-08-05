@@ -4,7 +4,7 @@
 ## Header
 - Joakim Hallbom 
 - Game Developer
-
+- I strive to create well designed, unique and fun games. I enjoy the whole development process of making a game from idea to release.
 
 
 ## About
