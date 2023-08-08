@@ -8,6 +8,16 @@ First person horror game developed in Unreal Engine
   - Speedtree [yellow]
 - Buttons:
   - Steam Link [https://store.steampowered.com/app/2135930/Dreamables/]
+
+## Platformer Prototype WIP
+A colorful and light platformer game in a single big level, with procedural generated objects.
+- ![600x200](../assets/platformer.PNG)
+- Tags: Category 2
+- Badges:
+  - Unreal Engine BP [green]
+  - Blender [orange]
+  - Gimp [green]
+- Buttons:
   
 
 ## Game Design Project 1 - 2019
